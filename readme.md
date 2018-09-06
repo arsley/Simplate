@@ -1,7 +1,7 @@
 # Simplate
 
 Create static webpage simply.
-Change `index.html` and `main.scss` to make own page...
+Change `index.pug` and `main.scss` to make own page...
 
 ## Prerequisites
 
@@ -13,7 +13,7 @@ Change `index.html` and `main.scss` to make own page...
 
 ```
 $ yarn
-$ yarn watch # watching file: index.html, main.scss
+$ yarn watch # watching file: index.pug, main.scss and serve on localhost
 ```
 
 ## Todo
